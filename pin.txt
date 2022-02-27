@@ -1,0 +1,23 @@
+vss       1 G
+vcc       2 +5
+vee       3 res G
+LCDrsPin  4  7
+LCDenPin  6  6
+LCDdb4Pin 11 5
+LCDdb5Pin 12 4
+LCDdb6Pin 13 3
+LCDdb7Pin 14 2
+led +     15 +5
+led -     16 G
+
+
+LED Longest Cathode
+LED Medium Red
+LED Short Green
+
+
+DHT A3
+
+
+
+

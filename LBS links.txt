@@ -1,0 +1,8 @@
+RGB code            : https://www.circuitbread.com/tutorials/how-rgb-leds-work-and-how-to-control-color
+Fritzing software   : https://onedrive.live.com/?cid=56559d033b70dda3&id=56559D033B70DDA3%21929397&authkey=!AJ4yupk5PGV2vs0
+DHT sensor code
+MIT: https://www.youtube.com/watch?v=NKXftjjdA2k
+	
+
+
+
